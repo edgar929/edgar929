@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @edgar929
-- 👀 I’m interested in full stack software development
-- 🌱 I’m currently learning react native
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: contact me on shumbushoedgar@gmail.com
--   linkedIn: shumbusho edgar
+A detail-oriented software engineer and a Registered scrum master with 2+ years of experience developing front and back-end projects in established companies and freelancing. 
