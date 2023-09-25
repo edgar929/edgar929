@@ -1,5 +1,5 @@
 A detail-oriented software engineer and a Registered scrum master with 3+ years of experience developing front and back-end projects in established companies and freelancing. 
-# Hi there 👋, I'm NGIRIMANA Schadrack Wakatime
+# Hi there 👋, I'm Edgar Shumbusho
 
 ## The Things I Code
 Node.js | React.js | Git | Python | MongoDB | Sass | Redux | Heroku | Firebase | Docker
