@@ -27,7 +27,7 @@
 
 📫 You can contact me via email: [shumbushoedgar@gmail.com](mailto:shumbushoedgar@gmail.com)
 
-⚡ Fun Fact: I enjoy listening to classical music!
+⚡ Hobby: Playing basketball
 
 ## GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edgar929&show_icons=true&theme=dark)
